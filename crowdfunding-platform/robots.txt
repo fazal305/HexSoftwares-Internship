@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://fazal305.github.io/HexSoftwares_CrowdfundingPlatform/sitemap.xml
+Sitemap: https://fazal305.github.io/HexSoftwares-Internship/crowdfunding-platform/sitemap.xml

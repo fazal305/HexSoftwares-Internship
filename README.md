@@ -4,7 +4,7 @@ A central index of projects completed during the HexSoftwares Frontend/Full-Stac
 
 This repository acts as a portfolio hub for the internship work, with quick links to each project's own folder, code, and README. All nine projects below were originally separate repositories; they have been consolidated here as subfolders so the internship work lives in one place.
 
-**Live Demo:** [https://fazal305.github.io/HexSoftwares_BookLibrary/](https://fazal305.github.io/HexSoftwares_BookLibrary/)
+**Live Demo:** [https://fazal305.github.io/HexSoftwares-Internship/](https://fazal305.github.io/HexSoftwares-Internship/)
 
 ## Internship Details
 

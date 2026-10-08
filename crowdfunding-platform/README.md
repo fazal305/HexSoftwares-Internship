@@ -8,7 +8,7 @@ It allows users to create projects, contribute funding (simulated payments), and
 ## 🌐 Live Demo
 
 🔗 Frontend (GitHub Pages):  
-https://fazal305.github.io/HexSoftwares_CrowdfundingPlatform/
+https://fazal305.github.io/HexSoftwares-Internship/crowdfunding-platform/
 
 🔗 Backend (Render API):  
 https://hexsoftwares-crowdfundingplatform.onrender.com
@@ -72,7 +72,7 @@ https://hexsoftwares-crowdfundingplatform.onrender.com
 ## 📂 Project Structure
 
 
-HexSoftwares_CrowdfundingPlatform/
+crowdfunding-platform/
 │
 ├── backend/
 │ ├── models/
@@ -108,7 +108,7 @@ HexSoftwares_CrowdfundingPlatform/
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/fazal305/HexSoftwares_CrowdfundingPlatform.git
+git clone https://github.com/fazal305/HexSoftwares-Internship.git
 2. Backend Setup
 cd backend
 npm install

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://fazal305.github.io/HexSoftwares_GymWebsite/sitemap.xml
+Sitemap: https://fazal305.github.io/HexSoftwares-Internship/gym-website/sitemap.xml

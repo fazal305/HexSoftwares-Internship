@@ -4,7 +4,7 @@ A responsive personal portfolio website for Fazal Abbas, built with semantic HTM
 
 ## Live Demo
 
-https://fazal305.github.io/HexSoftwares_Personal_Portfolio/
+https://fazal305.github.io/HexSoftwares-Internship/personal-portfolio/
 
 ## Project Overview
 
@@ -44,7 +44,7 @@ This project supports portfolio tasks from:
 ## Project Structure
 
 ```text
-HexSoftwares_Personal_Portfolio/
+personal-portfolio/
 |-- index.html
 |-- README.md
 |-- LICENSE

@@ -6,8 +6,8 @@ A modern, responsive web music player built using **HTML5, CSS3, JavaScript, jQu
 
 # 🌐 Live Links
 
-* **GitHub Repository:** https://github.com/fazal305/HexSoftwares_WebMusicPlayer
-* **Live Demo:** https://fazal305.github.io/HexSoftwares_WebMusicPlayer/
+* **GitHub Repository:** https://github.com/fazal305/HexSoftwares-Internship/tree/main/web-music-player
+* **Live Demo:** https://fazal305.github.io/HexSoftwares-Internship/web-music-player/
 
 ---
 
@@ -78,7 +78,7 @@ The project provides an intuitive music listening experience while showcasing cl
 # 📁 Folder Structure
 
 ```text
-HexSoftwares_WebMusicPlayer/
+web-music-player/
 │
 ├── index.html
 ├── styles.css
@@ -99,13 +99,13 @@ HexSoftwares_WebMusicPlayer/
 Clone the repository:
 
 ```bash
-git clone https://github.com/fazal305/HexSoftwares_WebMusicPlayer.git
+git clone https://github.com/fazal305/HexSoftwares-Internship.git
 ```
 
 Open the project:
 
 ```bash
-cd HexSoftwares_WebMusicPlayer
+cd HexSoftwares-Internship/web-music-player
 ```
 
 Add your music files to:

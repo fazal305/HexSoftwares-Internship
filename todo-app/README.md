@@ -6,11 +6,11 @@ The app focuses on practical task management with local persistence, clean state
 
 ## Live Demo
 
-https://fazal305.github.io/hexsoftwares-todo-app/
+https://fazal305.github.io/HexSoftwares-Internship/todo-app/
 
 ## Repository
 
-https://github.com/fazal305/hexsoftwares-todo-app
+https://github.com/fazal305/HexSoftwares-Internship/tree/main/todo-app
 
 ## Features
 
@@ -35,7 +35,7 @@ https://github.com/fazal305/hexsoftwares-todo-app
 ## Project Structure
 
 ```text
-hexsoftwares-todo-app/
+todo-app/
 |-- index.html
 |-- styles.css
 |-- script.js

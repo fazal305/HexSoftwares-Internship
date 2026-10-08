@@ -6,8 +6,8 @@ A modern, responsive animal charity website built using **HTML5, CSS3, and Vanil
 
 # 🌐 Live Links
 
-* **GitHub Repository:** https://github.com/fazal305/HexSoftwares_AnimalCharityWebsite
-* **Live Demo:** https://fazal305.github.io/HexSoftwares_AnimalCharityWebsite/
+* **GitHub Repository:** https://github.com/fazal305/HexSoftwares-Internship/tree/main/animal-charity-website
+* **Live Demo:** https://fazal305.github.io/HexSoftwares-Internship/animal-charity-website/
 
 ---
 
@@ -89,7 +89,7 @@ PAWSAFE is dedicated to rescuing, rehabilitating, and rehoming stray and abandon
 # 📁 Folder Structure
 
 ```text
-HexSoftwares_AnimalCharityWebsite/
+animal-charity-website/
 │
 ├── index.html
 ├── styles.css
@@ -117,13 +117,13 @@ HexSoftwares_AnimalCharityWebsite/
 Clone the repository:
 
 ```bash
-git clone https://github.com/fazal305/HexSoftwares_AnimalCharityWebsite.git
+git clone https://github.com/fazal305/HexSoftwares-Internship.git
 ```
 
 Open the project:
 
 ```bash
-cd HexSoftwares_AnimalCharityWebsite
+cd HexSoftwares-Internship/animal-charity-website
 ```
 
 Open **index.html** in your browser or use **VS Code Live Server**.

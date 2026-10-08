@@ -4,8 +4,8 @@ A clean, responsive, HTML-only resume website built as part of the HexSoftwares 
 
 ## Live Links
 
-- GitHub Repository: https://github.com/fazal305/HexSoftwares_Resume_Website
-- Live Demo: https://fazal305.github.io/HexSoftwares_Resume_Website/
+- GitHub Repository: https://github.com/fazal305/HexSoftwares-Internship/tree/main/resume-website
+- Live Demo: https://fazal305.github.io/HexSoftwares-Internship/resume-website/
 
 ## Overview
 
@@ -33,7 +33,7 @@ The goal of this project was to create a professional online resume using only H
 - Internal CSS
 - GitHub Pages
   Folder Structure
-  HexSoftwares_Resume_Website/
+  resume-website/
   index.html
   profile-photo.jpg
   README.md
@@ -44,9 +44,9 @@ The goal of this project was to create a professional online resume using only H
 To run this project locally:
 
 Clone the repository.
-git clone https://github.com/fazal305/HexSoftwares_Resume_Website.git
+git clone https://github.com/fazal305/HexSoftwares-Internship.git
 Open the project folder.
-cd HexSoftwares_Resume_Website
+cd HexSoftwares-Internship/resume-website
 Open index.html in your browser.
 
 No installation, build tools, or dependencies are required.

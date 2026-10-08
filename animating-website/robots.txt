@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://fazal305.github.io/HexSoftwares_AnimatingWebsite/sitemap.xml
+Sitemap: https://fazal305.github.io/HexSoftwares-Internship/animating-website/sitemap.xml

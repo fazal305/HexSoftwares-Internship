@@ -51,13 +51,13 @@ A clean, responsive Book Library Web App built for the HexSoftwares Internship u
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/fazal305/HexSoftwares_BookLibrary.git
-cd HexSoftwares_BookLibrary
+git clone https://github.com/fazal305/HexSoftwares-Internship.git
+cd HexSoftwares-Internship/book-library
 Open index.html in browser.
 
 🌐 Live Demo (GitHub Pages)
 
-https://fazal305.github.io/HexSoftwares_BookLibrary/
+https://fazal305.github.io/HexSoftwares-Internship/book-library/
 
 📌 Internship Submission
 

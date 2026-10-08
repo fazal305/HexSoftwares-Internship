@@ -6,8 +6,8 @@ A modern, responsive single-page gym website built using **HTML5, CSS3, and Vani
 
 # 🌐 Live Links
 
-* **GitHub Repository:** https://github.com/fazal305/HexSoftwares_GymWebsite
-* **Live Demo:** https://fazal305.github.io/HexSoftwares_GymWebsite/
+* **GitHub Repository:** https://github.com/fazal305/HexSoftwares-Internship/tree/main/gym-website
+* **Live Demo:** https://fazal305.github.io/HexSoftwares-Internship/gym-website/
 
 ---
 
@@ -84,7 +84,7 @@ The project demonstrates responsive web design, JavaScript interactivity, smooth
 # 📁 Folder Structure
 
 ```text
-HexSoftwares_GymWebsite/
+gym-website/
 │
 ├── index.html
 ├── styles.css
@@ -115,13 +115,13 @@ HexSoftwares_GymWebsite/
 Clone the repository:
 
 ```bash
-git clone https://github.com/fazal305/HexSoftwares_GymWebsite.git
+git clone https://github.com/fazal305/HexSoftwares-Internship.git
 ```
 
 Open the project:
 
 ```bash
-cd HexSoftwares_GymWebsite
+cd HexSoftwares-Internship/gym-website
 ```
 
 Open **index.html** in your browser or use **VS Code Live Server**.
